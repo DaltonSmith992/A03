@@ -1,6 +1,6 @@
 # A03
 
-**Glossary**
+**Glossary** </br>
 **Branch:**
 **Clone:**
 **Commit:**

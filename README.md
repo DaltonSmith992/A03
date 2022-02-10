@@ -1,15 +1,15 @@
 # A03
 
 **Glossary** </br>
-**Branch:**
-**Clone:**
-**Commit:**
-**Fetch:**
-**GIT:**
-**Github:**
-**Merge:**
-**Merge Conflict:**
-**Push:**
-**Pull:**
-**Remote:**
-**Repository:**
+**Branch:** </br>
+**Clone:** </br>
+**Commit:** </br>
+**Fetch:** </br>
+**GIT:** </br>
+**Github:** </br>
+**Merge:** </br>
+**Merge Conflict:** </br>
+**Push:** </br>
+**Pull:** </br>
+**Remote:** </br>
+**Repository:** </br>

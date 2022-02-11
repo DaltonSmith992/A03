@@ -2,8 +2,20 @@
 **Tutorial** </br>
 
 **Step 1** </br>
+Navigate to https://github.com/ and sign up for an account.</br>
 
-**Glossary** </br></br>
+**Step 2** </br>
+On your profile home, navigate to the "**Repositories**" tab and click on the green "**New**" button.</br>
+
+**Step 3** </br>
+Under "Repository Name" enter a name for your new repository. This combined with your username you created will be the path you will use to find your repository later on, you can also add a description if you like. When finished, click the green "**Create Repository**" button.</br>
+
+**Step 4** </br>
+Now you have a repository on Github that you may use to upload and share your files. In order to finish this process and make your repository public, you need to choose a theme. To do this, click on your newly created repository and navigate to the "**Settings**" tab. Then, navigate to the "**Pages**" page, under "Code and automation" in the navigation sidebar. Select "**Choose theme**" and select a theme you like. Save your changes by clicking the green "**Select theme**" button.</br>
+
+Congratulations! You have created your first Github repository.</br>
+
+**Glossary** </br>
 <ul>
   <li> <b>Branch:</b> A branch is a parallel version of a repository. It is contained within the repository, but does not affect the primary or main branch allowing you to work freely without disrupting the "live" version. When you've made the changes you want to make, you can merge your branch back into the main branch to publish your changes.</li> </br>
 <li><b>Clone:</b> A clone is a copy of a repository that lives on your computer instead of on a website's server somewhere, or the act of making that copy. When you make a clone, you can edit the files in your preferred editor and use Git to keep track of your changes without having to be online. The repository you cloned is still connected to the remote version so that you can push your local changes to the remote to keep them synced when you're online.</li></br>
@@ -20,5 +32,5 @@
 </ul>
 </br>
 <b>References</b> </br>
-https://docs.github.com/en/get-started/quickstart/hello-world
+https://docs.github.com/en/get-started/quickstart/hello-world </br>
 https://docs.github.com/en/get-started/quickstart/github-glossary
